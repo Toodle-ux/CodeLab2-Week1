@@ -5,7 +5,6 @@ using UnityEngine;
 public class CircleSpawn : MonoBehaviour
 {
     public int color;
-    public Sprite[] sprites;
 
     // Start is called before the first frame update
     void Start()
@@ -50,9 +49,5 @@ public class CircleSpawn : MonoBehaviour
                 new Vector3(Random.Range(-9, 9), 6, 0);
         }
         
-
-        //GameObject go = Instantiate(Resources.Load("Prefabs/Circle")) as GameObject;
-        //int num = GetComponent<ColorPicker>().SetSprite();
-        //go.GetComponent<SpriteRenderer>().sprite = sprites[num];
     }
 }
