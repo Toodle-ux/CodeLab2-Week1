@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets/Scripts/CircleSpawn.cs" />
     <Compile Include="Assets/Scripts/ColorPicker.cs" />
+    <Compile Include="Assets/Scripts/PlayerController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
