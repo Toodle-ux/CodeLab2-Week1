@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour
 
     private int score = 0;
 
+    // score property
     public int Score
     {
         get { return score; }
@@ -33,13 +34,7 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
+    // Update the score
     void Update()
     {
         text.text = "Score: " + score;

@@ -6,13 +6,7 @@ public class PlayerController : MonoBehaviour
 {
     public float moveSpeed = 20;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
+    // use A and D to control the ring
     void Update()
     {
         if (Input.GetKey(KeyCode.A))

@@ -6,7 +6,7 @@ public class FallingBalls : MonoBehaviour
 {
     public int addScore;
     
-
+    // add score when the falling ball hit the ring
     void OnTriggerEnter2D(Collider2D other)
     {
         Debug.Log("bang!");
