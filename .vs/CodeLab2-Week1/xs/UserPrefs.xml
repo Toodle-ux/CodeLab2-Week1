@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4C3D116F-27C3-BD0C-BCC7-DBBEC42FCCFF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CircleSpawn.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CircleSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ColorPicker.cs" Line="9" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="976979fa-857b-4b86-9b82-4ca65a28b951" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
